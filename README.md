@@ -1,2 +1,5 @@
 # Phone-Limitator-ESP8266
+
+*IL PROGETTO E' CONTINUAMENTE AGGIORNATO PER MIGLIORARE L'ESPERIENZA UTENTE*
+
 Limitatore Per dispositivi elettronici.
